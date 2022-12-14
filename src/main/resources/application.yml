@@ -6,3 +6,6 @@ spring:
           github:
             client-id: dbef4d2c7dc544614a62
             client-secret: 1b22e646b5d7967bfcb8cf458871183029cd0922
+          google:
+            client-id: 443227830846-ucda2ifkpm6dplps0jr91f8l973ruh2g.apps.googleusercontent.com
+            client-secret: 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
